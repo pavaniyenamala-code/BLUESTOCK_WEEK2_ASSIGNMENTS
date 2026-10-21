@@ -31,3 +31,5 @@ Files:
 - Practiced REST API requests and JSON data handling.
 - Converted API data into CSV format.
 - Practiced GitHub repository and version-history basics.
+
+Git practice: created a practice branch to learn version control.
